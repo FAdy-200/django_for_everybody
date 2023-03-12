@@ -3,9 +3,9 @@
 This repository contains files and resources that I'm using while studying the Django for Everybody SPECIALIZATION on Coursera. The specialization consists of four courses:
 
 - Web Applications for Everybody
-- Django for Everybody
-- Django for Everybody - AJAX, jQuery, and JSON
-- Django for Everybody - Capstone
+- Building Web Applications in Django
+- Django Features and Libraries
+- Using JavaScript, JQuery, and JSON in Django
 
 Each of these courses covers various topics related to developing web applications using the Django framework.
 
