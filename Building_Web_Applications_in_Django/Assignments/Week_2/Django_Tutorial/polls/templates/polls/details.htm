@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <title>Detail View of Questions</title>
+    </head>
+    <body>
+        <h1>Question = {{ question.question_text }}</h1>
+        <p>Possible answers</p>
+        <ul>
+            {%for i in answers%}
+            <li>{{i.choice_text}}</li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>
