@@ -13,13 +13,9 @@ Each of these courses covers various topics related to developing web applicatio
 
 This repository contains the following files and directories:
 
-- **Course Notes**: This directory contains notes and summaries of the course material, including important concepts and code examples.
-
 - **Assignments**: This directory contains the assignments for each course in the specialization, along with my solutions to these assignments.
 
-- **Projects**: This directory contains the projects I've worked on while studying the specialization, including the final capstone project.
-
-- **Resources**: This directory contains any additional resources that I've found helpful while studying the specialization, such as books, articles, and blog posts.
+- **Resources**: This directory contains any additional resources that I've found helpful while studying the specialization, such as books, articles, blog posts and cheat sheets.
 
 ## Getting Started
 
