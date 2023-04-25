@@ -45,18 +45,18 @@ This repository is licensed under the MIT License. See the `LICENSE` file for de
 
 ## Progress:
 
-- [x] Web Applications for Everybody:
+- [x] Web Applications for Everybody [Certificate](Web_Application_Technologies_and_Django/Web_Application_Technologies_and_Django_Cert.pdf):
     - [x] Week 1
     - [x] Week 2
     - [x] Week 3
     - [x] Week 4
     - [x] Week 5
-- [x] Building Web Applications in Django:
+- [x] Building Web Applications in Django [Certificate](Building_Web_Applications_in_Django/Building_Web_Applications_in_Django_Cert.pdf):
     - [x] Week 1
     - [x] Week 2
     - [x] Week 3
     - [x] Week 4
-- [x] Django Features and Libraries:
+- [x] Django Features and Libraries [Certificate] (Django_Features_and_Libraries/Django_Features_and_Libraries_Cert.pdf):
     - [x] Week 1
     - [x] Week 2
     - [x] Week 3
