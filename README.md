@@ -56,7 +56,7 @@ This repository is licensed under the MIT License. See the `LICENSE` file for de
     - [x] Week 2
     - [x] Week 3
     - [x] Week 4
-- [x] Django Features and Libraries [Certificate] (Django_Features_and_Libraries/Django_Features_and_Libraries_Cert.pdf):
+- [x] Django Features and Libraries [Certificate](Django_Features_and_Libraries/Django_Features_and_Libraries_Cert.pdf):
     - [x] Week 1
     - [x] Week 2
     - [x] Week 3
