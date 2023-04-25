@@ -31,9 +31,9 @@ Once you've cloned the repository, you can access the course notes, assignments,
 
 ## Requirements
 
-To work with these files and resources, you'll need to have Python and Django installed on your machine. You can download Python from the official website (https://www.python.org/downloads/) and Django using pip:
+To work with these files and resources, you'll need to have Python and some libraries installed on your machine. You can download Python from the official website (https://www.python.org/downloads/) and the libraries using using pip:
 
-```pip install django```
+```pip install -r requirements.txt```
 
 ## Contributing
 
@@ -46,3 +46,30 @@ I'd like to thank Dr. Chuck Severance and the team at the University of Michigan
 ## License
 
 This repository is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Progress:
+
+- [x] Web Applications for Everybody:
+    - [x] Week 1
+    - [x] Week 2
+    - [x] Week 3
+    - [x] Week 4
+    - [x] Week 5
+- [x] Building Web Applications in Django:
+    - [x] Week 1
+    - [x] Week 2
+    - [x] Week 3
+    - [x] Week 4
+- [x] Django Features and Libraries:
+    - [x] Week 1
+    - [x] Week 2
+    - [x] Week 3
+    - [x] Week 4
+    - [x] Week 5
+    - [x] Week 6
+- [ ] Using JavaScript, JQuery, and JSON in Django:
+    - [ ] Week 1
+    - [ ] Week 2
+    - [ ] Week 3
+    - [ ] Week 4
+    - [ ] Week 5
