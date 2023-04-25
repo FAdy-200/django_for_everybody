@@ -11,7 +11,7 @@ Each of these courses covers various topics related to developing web applicatio
 
 ## Contents
 
-This repository contains the following files and directories:
+Each course has it's own directory which contains:
 
 - **Assignments**: This directory contains the assignments for each course in the specialization, along with my solutions to these assignments.
 
@@ -23,17 +23,13 @@ To use these files and resources, simply clone this repository to your local mac
 
 ```git clone https://github.com/FAdy-200/django_for_everybody.git```
 
-Once you've cloned the repository, you can access the course notes, assignments, projects, and resources directly from your local machine.
+Once you've cloned the repository, you can access the assignments, and resources directly from your local machine.
 
 ## Requirements
 
 To work with these files and resources, you'll need to have Python and some libraries installed on your machine. You can download Python from the official website (https://www.python.org/downloads/) and the libraries using using pip:
 
 ```pip install -r requirements.txt```
-
-## Contributing
-
-If you'd like to contribute to this repository, feel free to open a pull request or submit an issue. Any contributions are welcome!
 
 ## Acknowledgments
 
